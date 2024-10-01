@@ -1,5 +1,7 @@
-let m=2
-let n=4
+let m
+let n
+m = prompt("Enter the value of m")
+n = prompt("Enter the value of n")
 let sum=0;
 
 if (m>n)
